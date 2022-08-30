@@ -6,9 +6,9 @@ import javafx.scene.image.Image;
 
 public class Brick extends SelectableButton {
 
-    private static final Image litImage = new Image("file:Lit.png");
-    private static final Image offImage = new Image("file:Off.png");
-    private static final Image oneImage = new Image("file:1.png");
+    private static final Image litImage = new Image("file:images/Lit.png");
+    private static final Image offImage = new Image("file:images/Off.png");
+    private static final Image oneImage = new Image("file:images/1.png");
 
     private GraphicsContext gc = getGraphicsContext2D();
     private boolean brickIsLit = false;

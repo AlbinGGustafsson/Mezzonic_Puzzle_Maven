@@ -58,7 +58,7 @@ public class Mezzonic extends Application {
         }
 
         Scene scene = new Scene(root);
-        scene.setCursor(new ImageCursor(new Image("file:wowmus.png")));
+        scene.setCursor(new ImageCursor(new Image("file:images/wowmus.png")));
 
         stage.setScene(scene);
         stage.setTitle("Your First Mezzonic Protolock");
