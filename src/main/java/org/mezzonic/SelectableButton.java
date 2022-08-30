@@ -1,4 +1,4 @@
-package org.example;
+package org.mezzonic;
 
 import javafx.event.EventHandler;
 import javafx.scene.canvas.Canvas;

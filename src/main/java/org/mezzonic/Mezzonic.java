@@ -1,4 +1,4 @@
-package org.example;
+package org.mezzonic;
 
 import javafx.application.Application;
 import javafx.application.Platform;

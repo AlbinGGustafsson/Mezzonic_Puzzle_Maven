@@ -1,4 +1,4 @@
-package org.example;
+package org.mezzonic;
 
 import javafx.scene.image.Image;
 
